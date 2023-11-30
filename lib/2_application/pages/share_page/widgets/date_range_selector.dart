@@ -1,4 +1,4 @@
-import 'package:broker_app/02_application/pages/share_page/cubit/share_page_cubit.dart';
+import 'package:broker_app/2_application/pages/share_page/cubit/share_page_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart' show toBeginningOfSentenceCase;

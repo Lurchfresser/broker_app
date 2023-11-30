@@ -1,9 +1,6 @@
-import 'dart:convert';
-import 'dart:math' as math;
 
 import 'package:bloc/bloc.dart';
-import 'package:broker_app/01_domain/usecases/share_page_usecasses.dart';
-import 'package:flutter/services.dart';
+import 'package:broker_app/1_domain/usecases/share_page_usecasses.dart';
 import 'package:meta/meta.dart';
 
 part 'share_page_state.dart';

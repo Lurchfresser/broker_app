@@ -1,8 +1,7 @@
-import 'package:broker_app/02_application/core/widgets/share_chart.dart';
-import 'package:broker_app/02_application/pages/share_page/cubit/share_page_cubit.dart';
-import 'package:broker_app/02_application/pages/share_page/widgets/date_range_selector.dart';
+import 'package:broker_app/2_application/core/widgets/share_chart.dart';
+import 'package:broker_app/2_application/pages/share_page/cubit/share_page_cubit.dart';
+import 'package:broker_app/2_application/pages/share_page/widgets/date_range_selector.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class SharePageWrapper extends StatelessWidget {

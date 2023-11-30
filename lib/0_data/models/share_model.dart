@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 
-import 'package:broker_app/01_domain/entities/share_entity.dart';
+import 'package:broker_app/1_domain/entities/share_entity.dart';
 
 class ShareModel extends ShareEntity{
   ShareModel({required super.min, required super.max, required super.positions});
